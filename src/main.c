@@ -100,6 +100,7 @@ typedef struct {
     GLuint buffer;
 } Player;
 
+/** shader attribute */
 typedef struct {
     GLuint program;
     GLuint position;
