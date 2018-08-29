@@ -8,9 +8,13 @@ craft
 world
 env
 log.txt
+.idea
+/cmake-build-debug
+.iml
 *.o
 *.db
 *.exe
 # *.dll
 *.pyc
+*.cbp
 
